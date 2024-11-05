@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Texto de prueba. Texto de prueba
 :wq
+=======
+texto ramdonasda
+>>>>>>> 64cd25ce89a355fedc358421f0f507735a9c015f
