@@ -40,3 +40,5 @@ function calculadora() {
 
 // Llamar a la función calculadora
 calculadora();
+
+console.log("Modificación del fichero");
